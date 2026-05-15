@@ -137,3 +137,17 @@ h2 {
     margin-top: 0.5em;
   }
 }
+footer {
+  background-color: #232f3e;
+  padding: 2em 1em;
+  div {
+    color: white;
+    display: inline-block;
+    width: 30%;
+    li {
+      font-size: 0.7em;
+      list-style: none;
+      margin-block: 0.3em;
+    }
+  }
+}
